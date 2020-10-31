@@ -21,7 +21,7 @@ function sendMessage() {
         content: contentparam
     }
 
-    /* Send Webhook via fench */
+    /* Send Webhook via fetch */
     fetch(webhookparam, {
         method: 'post',
         headers: {
