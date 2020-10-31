@@ -10,4 +10,9 @@ Try it out on my [website](https://beezxmaster.github.io/Discord-Webhook-Spammer
 
 ## Screenshots
 
-Comming soon
+![main-picture](https://s12.directupload.net/images/201031/8ho7ujl9.png)
+The Main Page of this Script
+
+
+![result](https://s12.directupload.net/images/201031/4cbpyiot.png)
+If one has entered everything, this comes as devoted
