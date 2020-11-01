@@ -1,8 +1,9 @@
 /*
-    VERSION: 1.0.0 | BY BEEZXMASTER
+    VERSION: 1.1.0 | BY BEEZXMASTER
  */
 
 function sendMessage() {
+
     /* Define all Variables for Input*/
     let usernameparam = '';
     let contentparam = '';
@@ -12,6 +13,7 @@ function sendMessage() {
     /* Get Input from the HTML File and does the variables */
     webhookparam = document.getElementById('link').value;
     usernameparam = document.getElementById('username').value;
+    avatar_urlparam = document.getElementById('avatar').value;
     contentparam = document.getElementById('content').value;
 
     /* Set Param of all Variables */
