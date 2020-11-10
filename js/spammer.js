@@ -1,5 +1,5 @@
 /*
-    VERSION: 1.1.0 | BY BEEZXMASTER
+    VERSION: 1.1.5 | BY BEEZXMASTER
  */
 
 function sendMessage() {
